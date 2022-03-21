@@ -15,7 +15,7 @@
      <project path="vendor/realme/moon" name="android_vendor_realme_moon" remote="dps" revision="twelve" />
      <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="parts" revision="aosp12" />
      <project path="vendor/mediatek-ims" name="vendor_mediatek-ims" remote="dps" revision="twelve-rmui2" /> 
-     <project path="kernel/realme/moon" name="4.14_kernel_moon" remote="eun" revision="twelve" />
+     <project path="kernel/realme/moon" name="4.14_kernel_moon" remote="eun" revision="12-rui2" />
      <remove-project name="frameworks_opt_net_ims" />
      <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="ims" revision="aosp-12" />
 
